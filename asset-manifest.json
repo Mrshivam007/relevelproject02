@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/relevelproject02/static/css/main.abd64e84.css",
+    "main.js": "/relevelproject02/static/js/main.795d3bc5.js",
+    "index.html": "/relevelproject02/index.html",
+    "main.abd64e84.css.map": "/relevelproject02/static/css/main.abd64e84.css.map",
+    "main.795d3bc5.js.map": "/relevelproject02/static/js/main.795d3bc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.795d3bc5.js"
+  ]
+}
